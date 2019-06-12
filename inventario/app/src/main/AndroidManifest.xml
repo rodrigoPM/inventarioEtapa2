@@ -9,6 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".ts14004.ts14004"></activity>
+        <activity android:name=".rl08017.rl08017" />
+        <activity android:name=".pm15007.pm15007" />
+        <activity android:name=".mm14031.mm14031" />
+        <activity android:name=".am15005.am15005" />
+        <activity android:name=".menu.Menu" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
